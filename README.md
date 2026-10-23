@@ -3,7 +3,7 @@
 Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
 
 ## Presentación
-- **Estudiante:** [Fausto Silva]
+- **Estudiante:** [Vito Tersaglio]
 - **Curso:** [4to 1ra]
 - **Escuela:** [Agustin Tosco]
 
